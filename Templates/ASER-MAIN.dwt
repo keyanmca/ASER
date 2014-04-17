@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>ASER-Action For Social Education and Remedies</title>
+<!-- TemplateEndEditable -->
+<link href="../css/style.css" rel="stylesheet" media="screen" />
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<body>
+	<div id="outer">
+	  <div id ="wrapper">
+    			<div id="logo">
+                  <p><img src="../images/logo.jpg" /></p>
+   			  </div>
+        <header id="top_header">
+					
+		  			<h1>AS<span>E</span>R</h1>
+                    <h4>Action For Social <span>Education</span> And Remedies</h4>
+				</header>
+                
+        <div id="social-media-icons">
+                	<ul>
+                    	<li>
+                    	  <h3> Follow Us:</h3></li>
+                    	<li><a href="http://www.facebook.com"><img src="../images/icons/facebook logo.png" /></a></li>
+                        <li><a href="http://www.twitter.com"><img src="../images/icons/twitter_logo.jpg" /></a></li>
+                        <li><a href="http://www.linkedin.com"><img src="../images/icons/linkedin.png" /></a></li>
+                        <li><a href="http://www.youtube.com"><img src="../images/icons/images (1).jpg" /></a></li>
+                    </ul>
+                </div>
+	<nav id="menu">
+		<ul>
+			<li><a href="../index.html">Home</a></li>
+			<li><a href="../About ASER NGO Delhi.html">About Us</a></li>
+			<li><a href="../photogallery ASER NGO Delhi.html">PhotoGallery</a></li>
+			<li><a href="../Projects ASER NGO Delhi.html">Events</a></li>
+            <li><a href="../Support ASER NGO Delhi.html">Support Us</a></li>
+            <li><a href="../Contact ASER NGO Delhi.html">Contact Us</a></li>
+		</ul>
+	</nav>
+    
+	<div id="banner">
+    <img src="../images/banner1/ban3.jpg" />
+    </div>
+	
+	<div id="content"><!-- TemplateBeginEditable name="Content" -->
+	  <h1>About ASER</h1>
+      <p>ASER– is a social service organization working towards a better society. True to its name, ASER perseveres to bring in a positive change by uniting people who share the common vision of a developed India, and pay back to the society which helped us.</p>
+      <h1>Rural Education</h1>
+      <p>India's rural areas have been left behind in the wake of high growth in A and B cities in India. One cause of rural poverty is the inability for children in rural areas to obtain basic education.One of primary missions of ASER is educating the thousands of village children who grow up illiterate. Measures will be taken to ensure direct donations to programs that assist in promoting rural education and literacy.</p>
+      <h1>Child Labour</h1>
+      <p>The plight of children is heartbreaking when they are bonded labour. Our Government is taking drastic steps to prevent child labour and encouraging literacy to develop. According to our constitutional article 45 — Universal Free Compulsory Education should be achieved.At ASER , we want to ensure that such child labour are rescued, rehabilitated and provided with education and the basic amenities like food, clothing and healthcare that is the right of any child</p>
+	<!-- TemplateEndEditable --></div>
+	
+	
+	<div id="news">
+	  <h2>Latest News</h2>
+	  <p class="date">Jan 14,2013</p>
+	  <h3>ASER in news</h3>
+	  <p>ASER concluded its second campaign of imparting education to Rural Govt School. </p>
+	  <p class="date">Jan 10,2013</p>
+	  <h3>ASER First Program in Bangalore.</h3>
+	  <p>ASER conducted a education trip to a Rural Govt. School in Jakkur area in outskirt's of Bangalore.</p>
+	  <p class="date">Dec 22,2012</p>
+	  <h3>ASER started NGO activities in Bangalore</h3>
+	  <p>ASER in association with 1STEP organization started its NGO activities in Bangalore.It will be working on Rural Education and Child Labour.</p>
+    </div>
+	
+	<footer id="foot">
+		<p>Designed and Maintained By ______________ Copyright 2012</p>
+	</footer>
+	</div>
+	</div>
+</body>
+</html>

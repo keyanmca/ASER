@@ -1,0 +1,258 @@
+/* --------------------------------------------------------------
+
+   reset.css
+   * Resets default browser CSS.
+
+-------------------------------------------------------------- */
+
+html {
+  margin:0;
+  padding:0;
+  border:0;
+}
+
+body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, code,
+del, dfn, em, img, q, dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, dialog, figure, footer, header,
+hgroup, nav, section {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+/* This helps to make newer HTML5 elements behave like DIVs in older browers */
+article, aside, details, figcaption, figure, dialog,
+footer, header, hgroup, menu, nav, section {
+    display:block;
+}
+
+/* Line-height should always be unitless! */
+body {
+  line-height: 1.5; 
+  /*background-image:url(../images/aser/DSCN2681.JPG); background-repeat:no-repeat; background-attachment:fixed;*/
+   
+  
+}
+
+/* Tables still need 'cellspacing="0"' in the markup. */
+table {
+  border-collapse: separate;
+  border-spacing: 0;
+}
+/* float:none prevents the span-x classes from breaking table-cell display */
+caption, th, td {
+  text-align: left;
+  font-weight: normal;
+  float:none !important;
+}
+table, th, td {
+  vertical-align: middle;
+}
+
+/* Remove possible quote marks (") from <q>, <blockquote>. */
+blockquote:before, blockquote:after, q:before, q:after { content: ''; }
+blockquote, q { quotes: "" ""; }
+
+/* Remove annoying border on linked images. */
+a img { border: none; }
+
+/* Remember to define your own focus styles! */
+:focus { outline: 0; }
+
+/*Headings*/
+h1,h2,h3,h4,h5,h6 { font-weight: bold; }
+
+
+h2 { font-size: 20px; font-weight:bold;  }
+h3 { font-size: 16px; font-weight:bold; margin-bottom:5px;  }
+h4 { font-size: 14px;  }
+h5 { font-size: 14px;  }
+h6 { font-size: 14px;  }
+
+
+
+/*For older browser compatiblity*/
+body{text-align:center; background-color:#FFFFB3;}
+
+header,section,aside,nav,footer,hgroup,article{ display:block;}
+
+strong { font-weight:normal;}
+
+/*Containers*/
+#outer{width:1040px; background-color:#FFF; margin:0 auto;}	
+
+#wrapper{width:1000px;background-color:#FFF;text-align:left;margin:0px auto;}
+
+
+#logo { margin-top:30px; margin-bottom:20px; margin-left:0px; margin-right:0px; float:left; }
+
+#top_header{float:left;width:470px; margin-top:40px; margin-left:10px;}
+#top_header h1{ font:Verdana, Geneva, sans-serif; font-size:54px; font-weight:300; text-transform:lowercase;color:#9C0; }
+#top_header h4{font:"Trebuchet MS", Arial, Helvetica, sans-serif; font-size:24px; font-weight:200; color:#9C0;}
+#top_header span{color:#0080FF;}
+
+#social-media-icons { float:right;margin:30 30 20 30px; }
+#social-media-icons ul li { display:inline;padding:5px;}
+#social-media-icons ul { margin-top:20px; }
+#social-media-icons h3{ font-weight:bold; font-family:Tahoma, Geneva, sans-serif; font-size:16px; padding:10px 10px; color:#0AD3CE; }
+
+#menu{clear:both;color:orange; margin-bottom:10px; background-color:#CF6;}
+#menu ul{border-top:solid 1px #000; border-bottom:solid 1px #000;}
+#menu li {display:inline;font:bold 14px Tahoma;list-style:none;padding:10px;}
+#menu li a{padding:0 15px;}
+
+#menu a:link			{ color:#000; }
+#menu a:visited		{ color:#000; }
+#menu a:active		{ color:#000; }
+#menu a:focus			{ color:#666; }
+#menu a:hover			{ color:#F60; }
+
+
+
+#content{float:left;width:720px;background-color:#666;margin:10px 20px 20px 0px;}
+#content h1 { font-size:20px; padding:5px;color:#FFFF80; }
+#content h4{color:#FFFF80;padding:5px; color:}
+#content h2{color:#FFFF80;padding:5px;}
+#content p{padding:5px; color:#FFF;margin:5px;}
+#content p a { float:left; padding:0 5px 5px 10px;}
+
+#content a{ display:inline-block; width:100px; float:right;}
+
+#content a:link			{ color:#000; }
+#content a:visited		{ color:#000; }
+#content a:active		{ color:#000; }
+#content a:focus			{ color:#666; }
+#content a:hover			{ color:#F60; }
+
+#content img{ border:1px solid #aaa; padding:10px 200px 10px 200px;}
+
+#support p{ padding:0 5px;; margin:0 2px;  }
+#support p.class1{ color:#FFFF80;font-size:16px; font-weight:bold; margin:2px 0 2px 2px; padding:5px;  }
+
+#contact {
+	float: left;
+	width: 250px;
+	position: absolute;
+	top: 255px;
+	left: 611px;
+}
+
+
+
+#content-fullwidth{width:100%; background-color:#666;margin:20px 0;}
+#content-fullwidth h1{font-size:20px; padding:5px; margin-bottom:5px; color:#FFFF80;}
+#content-fullwidth p{padding:5px; color:#FFF;}
+#content-fullwidth h2{font-size:20px; padding:5px; margin-bottom:5px; color:#FFFF80;}
+#content-fullwidth ul{ padding-left:20px; color:#fff;}
+#content-fullwidth li{ color:#fff;}
+#myModal1 h1,#myModal2 h1,#myModal3 h1,#myModal4 h1{ color:#000;}
+
+
+#news{margin-top:10px;float:left;width:250px; margin-bottom:15px;}
+#news p{margin:15px 0;}
+
+#small_gallery{width:250px;}
+#small_gallery h1{ border-bottom:3px solid #306;; background-color:#CF0;}
+#small_gallery img{padding:5px; margin:5px; /* Sets spacing around images */
+	border:1px solid #aaa; }
+
+
+#foot{clear:both;text-align:center;border-top:1px solid #ccc;;border-bottom:5px solid #fff;padding:10px; margin-top:15px; margin-bottom:15px; background-color:#333;}
+#foot p{ color:#fff;}
+
+/*General*/
+
+.popup-link{ font-size:12px;}
+.date { font-weight:bold; color:#C46200; margin-bottom:3px; }
+
+p { color:#000; font-size:14px;margin:10px 0; }
+
+#box1 { width:200px; float:left; margin:25px; 
+		border-top:5px #330000 solid; background-color:#eee;  }
+		
+
+#box2 { width:200px; float:left; margin:25px; 
+		border-top:5px #800080 solid; background-color:#eee;  }
+
+#box3 { width:200px; float:left; margin:25px;
+		 border-top:5px #7C7CBE solid; background-color:#eee; }
+		 
+#box4 { width:200px; float:left; margin:25px;
+		 border-top:5px #7C7CBE solid; background-color:#eee; }
+		 
+#box1 h3,#box2 h3,#box3 h3,#box4 h3 { margin:20px 10px 10px 10px; }
+#box1 p,#box2 p,#box3 p,#box4 p { margin:5px 10px; color:#000; }
+
+#box1 a:link,#box2 a:link,#box3 a:link,#box4 a:link			{ color:#000; }
+#box1 a:visited,#box2 a:visited,#box3 a:visited,#box4 a:visited		{ color:#000; }
+#box1 a:active,#box2 a:active,#box3 a:active,#box4 a:active		{ color:#000; }
+#box1 a:focus,#box2 a:focus,#box3 a:focus,#box4 a:focus			{ color:#666; }
+#box1 a:hover,#box2 a:hover,#box3 a:hover,#box4 a:hover			{ color:#F60; }
+
+
+#myModal1 h1,#myModal2 h1,#myModal3 h1,#myModal4 h1{ border-bottom:1px solid #ccc;}
+
+
+
+
+
+
+
+
+/* Forms */
+
+form ol { list-style-type:none; }
+
+form 	{ text-align:left; margin:20px;	}
+
+label 	{ 
+		float: left; width: 150px; margin-top:5px;
+		text-align:right; display:block; background:none; font-weight:bold;
+		}
+	
+
+
+input 	{ 
+		width: 280px; margin:0 0 16px 10px;
+		border:1px #000 solid; padding:5px; background:none;border-radius:5px;
+    -moz-border-radius:5px;
+    -webkit-border-radius:5px;; 
+		}
+		
+input:focus, textarea:focus	{ background-color:#FFF;border:1px solid #93F; }
+
+textarea {
+		width: 280px; height: 150px; margin:0 0 16px 10px;
+		border:1px #000 solid; padding:5px; background:none;border-radius:5px;
+    -moz-border-radius:5px;
+    -webkit-border-radius:5px; 
+		}
+
+select { margin-bottom:20px;	}
+	
+.month { margin-left:155px;	}
+
+#submit {
+		width:120px; height:44px;
+		margin-left:160px;
+		font-size:12px;
+		 background:url(../images/images.jpg);
+    text-indent:-9999px;
+    border:none;
+	background-repeat:no-repeat;
+		
+		}
+#submit:hover {
+	    opacity:0.9;
+	}
+
+br		{ clear: left; 	}
+
+.clear	{ clear:both; }

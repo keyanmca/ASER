@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<script type="text/javascript" src="../js/jquery.js"></script>
+<meta charset="utf-8">
+
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>ASER-Action For Social Education and Remedies</title>
+<!-- TemplateEndEditable -->
+
+
+<script type="text/javascript" src="../js/featureList.js"></script>
+    
+    <script language="javascript">
+		$(document).ready(function() {
+
+			$.featureList(
+				$("#tabs li a"),
+				$("#output li"), {
+					start_item	:	1
+				}
+			);
+		});
+	</script>
+    
+<link href="../css/featured.css" rel="stylesheet" media="screen" />
+<link href="../css/style.css" rel="stylesheet" media="screen" />
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-39359543-1', 'aser.co.in');
+  ga('send', 'pageview');
+
+</script>
+
+
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<body>
+	<div id="outer">
+	  <div id ="wrapper">
+    			<div id="logo">
+                  <p><img src="../images/logo.jpg" alt="ASER NGO LOGO" /></p>
+   			  </div>
+        <header id="top_header">
+					
+		  			<h1>AS<span>E</span>R</h1>
+                    <h4><strong>Action For Social <span>Education</span> And Remedies</strong></h4>
+				</header>
+                
+        <div id="social-media-icons">
+                	<ul>
+                    	<li>
+                    	  <h3> Follow Us:</h3></li>
+                    	<li><a title="ASER NGO Facebook Page" href="https://www.facebook.com/pages/Action-for-social-and-educational-remedies/196948063658136"target="_blank">
+                        <img src="../images/icons/facebook logo.png" /></a></li>
+                        <li><a title="ASER NGO Twitter page" href="https://twitter.com/ASERFOUNDATION" target="_blank"><img src="../images/icons/twitter_logo.jpg" /></a></li>
+                        <li><a title="ASER NGO LinkedIn Page" href="http://www.linkedin.com/pub/aser-foundation/68/3a/843" target="_blank"><img src="../images/icons/linkedin.png" /></a></li>
+                        <li><a title="ASER NGO YouTube Channel" href="http://www.youtube.com/channel/UCMn3Ec2O8ITciI_2LQt4j6Q?feature=watch" target="_blank"><img src="../images/icons/images (1).jpg" /></a></li>
+                    </ul>
+                </div>
+	<nav id="menu">
+		<ul>
+			<li><a title="Home Page ASER NGO" href="../index.html">Home</a></li>
+			<li><a title="About ASER NGO" href="../About ASER NGO Delhi.html">About Us</a></li>
+			<li><a title="Photogallery ASER NGO" href="../photogallery ASER NGO Delhi.html">PhotoGallery</a></li>
+			<li><a title="Projects and Events ASER NGO" href="../Projects ASER NGO Delhi.html">Projects</a></li>
+            <li><a title="Support ASER NGO" href="../Support ASER NGO Delhi.html">Support Us</a></li>
+            <li><a title="Contact ASER NGO" href="../Contact ASER NGO Delhi.html">Contact Us</a></li>
+		</ul>
+	</nav>
+    
+	<div id="feature">
+		
+
+		<div id="feature_list">
+			<ul id="tabs">
+				<li>
+					<a href="javascript:;">
+						<img src="../images/ban1.jpg" alt="Project Pehla Kadam ASER NGO Image" />
+						<h3>Project Pehla Kadam</h3>
+						<span>Focussing on Child Education</span>
+					</a>
+				</li>
+				<li>
+					<a href="javascript:;">
+						<img src="../images/ban2.jpg" alt="Project Badlaav ASER NGO Image"/>
+						<h3>Project Badlaav</h3>
+						<span>Income Generation Project for poor people</span>
+					</a>
+				</li>
+				<li>
+					<a href="javascript:;">
+						<img src="../images/ban3.jpg" alt="Project Step Up ASER NGO Image" />
+						<h3>Project Step Up</h3>
+						<span>Focussing on Children of Construction Workers</span>
+					</a>
+				</li>
+                
+                <li>
+					<a href="javascript:;">
+						<img src="../images/ban4.jpg" alt="Project Green India ASER NGO Image" />
+						<h3>Project Green India</h3>
+						<span>For the welfare of the Villager's</span>
+					</a>
+				</li>
+			</ul>
+			<ul id="output">
+			  <li>
+					<img src="../images/banner/ban1.jpg" alt="Project Pehla Kadam ASER NGO Image" />
+					<a href="../Projects ASER NGO Delhi.html">Project Pehla Kadam</a>
+				</li>
+			  <li>
+					<img src="../images/banner/ban2.jpg" alt="Project Badlaav ASER NGO Image" />
+					<a href="../Projects ASER NGO Delhi.html">Project Badlaav</a>
+				</li>
+				<li>
+					<img src="../images/banner/ban3.jpg" alt="Project Step Up ASER NGO Image" />
+					<a href="../Projects ASER NGO Delhi.html">Project Step Up</a>
+				</li>
+                <li>
+					<img src="../images/banner/ban4.jpg" alt="Project Green India ASER NGO Image" />
+					<a href="../Projects ASER NGO Delhi.html">Project Green India</a>
+				</li>
+                
+			</ul>
+
+		</div>
+        </div>
+	
+	
+	<div id="content"><!-- TemplateBeginEditable name="Content" -->
+	  <h1>About ASER</h1>
+      <p><strong>ASER</strong>– is a social service organization working towards a better society. True to its name, ASER perseveres to bring in a positive change by uniting people who share the common vision of a developed India, and pay back to the society which helped us.</p>
+      <h1>Rural Education</h1>
+      <p>India's rural areas have been left behind in the wake of high growth in A and B cities in India. One cause of rural poverty is the inability for children in rural areas to obtain basic education.One of primary missions of ASER is educating the thousands of village children who grow up illiterate. Measures will be taken to ensure direct donations to programs that assist in promoting rural education and literacy.</p>
+      <h1>Child Labour</h1>
+      <p>The plight of children is heartbreaking when they are bonded labour. Our Government is taking drastic steps to prevent child labour and encouraging literacy to develop. According to our constitutional article 45 — Universal Free Compulsory Education should be achieved.At ASER , we want to ensure that such child labour are rescued, rehabilitated and provided with education and the basic amenities like food, clothing and healthcare that is the right of any child</p>
+	<!-- TemplateEndEditable --></div>
+	<!-- TemplateBeginEditable name="Content-news" -->
+	<div id="news">
+	  <h2>Latest News</h2>
+	  <p class="date">Jan 19,2013</p>
+	  <h3>ASER in news</h3>
+	  <p>ASER concluded its second campaign of imparting education to Rural Govt School. </p>
+	  <p class="date">Jan 10,2013</p>
+	  <h3>ASER Program in Bangalore.</h3>
+	  <p>ASER conducted a education trip to a Rural Govt. School in Jakkur area in outskirt's of Bangalore.</p>
+	  <p class="date">Oct 22,2012</p>
+	  <h3>ASER started <strong>NGO activities in Bangalore</strong></h3>
+	  <p>ASER in association with <strong>1STEP</strong> organization started its NGO activities in Bangalore.It will be working on Rural Education and Child Labour.</p>
+    </div>
+	<!-- TemplateEndEditable -->
+	<footer id="foot">
+	  <p>Designed and Maintained By <strong>TechTalks Design Studio</strong>.Copyright 2013 All Rights Reserved-ASER</p>
+	</footer>
+	</div>
+	</div>
+</body>
+</html>
